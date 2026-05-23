@@ -15,7 +15,3 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 [![Visit Site](https://img.shields.io/badge/Visit%20Site-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://erick-tut.github.io/ElBosqueDeArce/)
-
----
-[![](https://komarev.com/ghpvc/?username=ericktut_&icon=0&color=0)](https://visitcount.itsvg.in)
-
