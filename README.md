@@ -16,6 +16,4 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 [![Visit Site](https://img.shields.io/badge/Visit%20Site-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://erick-tut.github.io/ElBosqueDeArce/)
 
-### Survival Dreams
-
-[![JAVA | Modrinth Visit Site](https://img.shields.io/badge/JAVA-Modrinth%20Visit%20Site-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/project/aUaD6KzZ)
+[![JAVA - Modrinth Visit Site](https://img.shields.io/badge/JAVA%20-%20Modrinth%20Visit%20Site-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/project/aUaD6KzZ)
