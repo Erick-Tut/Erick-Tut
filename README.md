@@ -8,7 +8,7 @@
 # Projects:
 ### Survival Dreams
 
-![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 [![Visit Site](https://img.shields.io/badge/Visit%20Site-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/project/aUaD6KzZ)
 
 ---
