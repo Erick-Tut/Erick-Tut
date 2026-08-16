@@ -15,3 +15,10 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 [![Visit Site](https://img.shields.io/badge/Visit%20Site-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://erick-tut.github.io/ElBosqueDeArce/)
+
+### Survival Dreams
+
+![Minecraft](https://img.shields.io/badge/Minecraft-%2362B47A.svg?style=for-the-badge&logo=minecraft&logoColor=white)
+![Fabric](https://img.shields.io/badge/Fabric-%23DDBE8D.svg?style=for-the-badge&logo=fabric&logoColor=white)
+
+[![Modrinth](https://img.shields.io/badge/Modrinth-%2300AF5C.svg?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+TW9kcmludGg8L3RpdGxlPjxwYXRoIGZpbGwtPSIjRkZGRkZGIiBkPSJMMTIuMjUyLjAwNGEuLi4iLz48L3N2Zz4=)](https://modrinth.com/project/aUaD6KzZ)
