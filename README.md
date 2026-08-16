@@ -18,4 +18,4 @@
 
 ### Survival Dreams
 
-[![Modrinth](https://img.shields.io/badge/Modrinth-Visit%20Site-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/project/aUaD6KzZ)
+[![JAVA | Modrinth Visit Site](https://img.shields.io/badge/JAVA-Modrinth%20Visit%20Site-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/project/aUaD6KzZ)
